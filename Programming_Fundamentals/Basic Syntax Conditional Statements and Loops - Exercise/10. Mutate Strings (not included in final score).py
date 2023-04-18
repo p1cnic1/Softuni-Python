@@ -13,3 +13,4 @@ for iteration in range(len(string_1)):
         print(current_string)
     previous_string = current_string
     current_string = ''
+
