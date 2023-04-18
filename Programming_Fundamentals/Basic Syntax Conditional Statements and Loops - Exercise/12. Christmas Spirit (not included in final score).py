@@ -26,3 +26,4 @@ for day in range(1, days+1):
 
 print(f'Total cost: {money}')
 print(f'Total spirit: {spirit}')
+a = 5
